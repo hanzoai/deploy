@@ -76,7 +76,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/ktrysmt/go-bitbucket v0.10.0
 	github.com/mattn/go-isatty v0.0.22
-	github.com/mattn/go-zglob v0.0.6
+	github.com/mattn/go-zglob v0.0.7
 	github.com/microsoft/azure-devops-go-api/azuredevops/v7 v7.1.1-0.20241014080628-3045bdf43455
 	github.com/oauth2-proxy/mockoidc v0.0.0-20240214162133-caebfff84d25
 	github.com/opencontainers/go-digest v1.0.0
