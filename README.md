@@ -3,6 +3,8 @@
 
 # Hanzo CD — declarative continuous delivery for Kubernetes
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/deploy&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/deploy&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/deploy&ref=main&action=deploy)
+
 Git holds the desired state; the controller applies it and reports drift.
 
 Hanzo CD is a hard fork of [Argo CD](https://github.com/argoproj/argo-cd)
